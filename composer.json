@@ -28,6 +28,10 @@
       "geoPHP\\Tests\\": "tests/"
     }
   },
+   "conflict": {
+    "sebastian/comparator": ">4.0.6",
+    "sebastianbergmann/phpunit": ">=9.6.0"
+  },
   "require": {
     "php": "^7.1|^8.0"
   },
